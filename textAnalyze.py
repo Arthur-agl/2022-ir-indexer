@@ -1,4 +1,4 @@
-# This file contains logic for text simplification in order to reduce index size
+# Text preprocessing functions
 
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
